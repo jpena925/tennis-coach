@@ -1,8 +1,11 @@
 import React from 'react'
+import ClassCard from './ClassCard'
 
 function Classes() {
   return (
-    <div>Classes</div>
+    <div>
+      <ClassCard />
+    </div>
   )
 }
 
